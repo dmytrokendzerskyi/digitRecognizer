@@ -1,0 +1,24 @@
+#canvas  {
+	margin-top: 2%;
+	border: solid 3px;
+	display: block;
+}
+
+.btn {
+	margin: 20px; 
+}
+
+#result {
+	 height: 250px;
+	 width: 250px;
+	 margin: 50px auto;
+	 border: solid 1px;
+	 border-radius: 10px;
+	 font-size: 160px;
+	 text-align: center;
+}
+
+.alert-danger {
+	opacity: 0;
+	text-align: center;
+}
